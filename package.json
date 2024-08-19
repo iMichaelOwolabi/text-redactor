@@ -1,0 +1,15 @@
+{
+  "name": "text-redactor",
+  "version": "1.0.0",
+  "description": "A text-based redactor used for moderating textual conversations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redactor",
+    "moderator"
+  ],
+  "author": "Michael Owolabi",
+  "license": "MIT"
+}
