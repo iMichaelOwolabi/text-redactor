@@ -1,5 +1,5 @@
 // Redact any text matching closely with any of the following texts patterns
-export const predefinedTextPatterns = {
-  phone: '/^[+]*[(]{0,1}[0-9]{1,4}[)]{0,1}[-\s\./0-9]*$/',
-  email: '/^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/',
+module.exports = predefinedTextPatterns = {
+  phone: /^[\+]?[(]?[0-9]{2,3}[)]?[-\s\.]?[0-9]{2,3}[-\s\.]?[0-9]{4,9}/,
+  email: /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/,
 }
