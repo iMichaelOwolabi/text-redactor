@@ -15,7 +15,7 @@ const redactText = (originaltext) => {
 
   const redactedText = transformedText.join(' ');
 
-  return redactText;
+  return redactedText;
 }
 
-module.exports = { redactText };
+module.exports = redactText;
