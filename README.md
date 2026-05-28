@@ -1,2 +1,2 @@
 # text-redactor
-The text-redactor for everyday use
+The text-redactor for everyday use. No abuse!
