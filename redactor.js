@@ -20,4 +20,4 @@ const redactText = (originaltext) => {
 
 module.exports = redactText;
 
-// This is just s a test
+// This is just s a test for the GitHub API
