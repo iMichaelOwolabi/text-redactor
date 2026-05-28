@@ -15,7 +15,7 @@ const redactText = (originaltext) => {
 
   const redactedText = transformedText.join(' ');
 
-  return redactedText;
+  return redactedText; // This is the cyphered text
 }
 
 module.exports = redactText;
