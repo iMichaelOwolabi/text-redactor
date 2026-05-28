@@ -1,2 +1,2 @@
 # text-redactor
-The text-redactor
+The text-redactor.
