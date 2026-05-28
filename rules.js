@@ -4,4 +4,4 @@ module.exports = predefinedTextPatterns = {
   email: /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/,
 }
 
-// These are the rules update to match email and phone numbers
+// These are the rules update to match email and phone numbers!
