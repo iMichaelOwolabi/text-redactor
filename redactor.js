@@ -10,7 +10,7 @@ const redactText = (originaltext) => {
     if (text.match( predefinedTextPatterns.phone)) {
       return 'redacted';
     }
-    return text
+    return text // Returns the transformed text after checking for PII
   })
 
   const redactedText = transformedText.join(' ');
