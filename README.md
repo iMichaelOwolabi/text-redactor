@@ -5,4 +5,4 @@ Use responsibly and help others.
 
 Thank You!
 
-### This is just fro formatting
+### This is just for formatting
