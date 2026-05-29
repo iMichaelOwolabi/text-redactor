@@ -1,4 +1,4 @@
 # text-redactor
 The text-redactor for everyday use. No abuse!
 
-Use responsibly!
+Use responsibly and help others.
